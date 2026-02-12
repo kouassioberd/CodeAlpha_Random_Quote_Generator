@@ -5,22 +5,22 @@ Random Quote Generator is a simple Android application built using **Kotlin** an
 ----
 
 ## Table of Contents
-1. [✨ Features](#features)  
-2. [🛠 Tech Stack](#tech-stack)
-3. [🌐 API Used](#api-used)
-4. [🏗 Architecture](#architecture)
-5. [📂 Project Structure](#project-structure)
-6. [🚀 Getting Started](#getting-started)
-7. [▶️ Run the App](#run-the-app)
-8. [📸 Screenshots](#screenshots)
-9. [👨‍💻 Author](#author)  
-10. [📜 License](#license)
+1. [Features](#features)  
+2. [Tech Stack](#tech-stack)
+3. [API Used](#api-used)
+4. [Architecture](#architecture)
+5. [Project Structure](#project-structure)
+6. [Getting Started](#getting-started)
+7. [Run the App](#run-the-app)
+8. [Screenshots](#screenshots)
+9. [Author](#author)  
+10. [License](#license)
 
 
 
 ---
 
-## ✨ Features
+## Features
 
 ✅ Fetches random quotes from ZenQuotes API
 ✅ Displays quote text and author  
@@ -34,7 +34,7 @@ Random Quote Generator is a simple Android application built using **Kotlin** an
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Kotlin
 - Jetpack Compose
@@ -46,7 +46,7 @@ Random Quote Generator is a simple Android application built using **Kotlin** an
 
 ---
 
-## 🌐 API Used
+## API Used
 
 ### ZenQuotes API
 Base URL:
@@ -62,7 +62,7 @@ GET /api/random
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 The app follows the MVVM (Model-View-ViewModel) pattern:
 - Model → QuoteDto
@@ -74,7 +74,7 @@ The app follows the MVVM (Model-View-ViewModel) pattern:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 com.example.codealpha_random_quote_generator
 ├── data
@@ -98,7 +98,7 @@ com.example.codealpha_random_quote_generator
 ```
 
 ---
-## 🚀 Getting Started
+## Getting Started
 ### Prerequisites
 - Android Studio (latest version recommended)
 - Minimum SDK: (your SDK version)
@@ -106,7 +106,7 @@ com.example.codealpha_random_quote_generator
 
 ---
 
-## ▶️ Run the App
+## Run the App
 1️⃣ Clone the repository:
 ```
 git clone https://github.com/kouassioberd/CodeAlpha_Random_Quote_Generator.git
@@ -120,7 +120,7 @@ git clone https://github.com/kouassioberd/CodeAlpha_Random_Quote_Generator.git
   - 
 ---
 
-## 📸 Screenshots
+## Screenshots
 <img width="250" alt="Screenshot_20260212_153215" src="https://github.com/user-attachments/assets/10c1df5e-dfa4-437a-80ed-9c047fd5ad3f" />
 <img width="250" alt="Screenshot_20260212_153433" src="https://github.com/user-attachments/assets/a3f7b547-741c-4af0-8f2a-0438537a4762" />
 <img width="250" alt="Screenshot_20260212_153446" src="https://github.com/user-attachments/assets/51f8ba11-0a8b-4b4f-9399-b99254a583d4" />
@@ -141,11 +141,11 @@ git clone https://github.com/kouassioberd/CodeAlpha_Random_Quote_Generator.git
 
 ---
 
-## 👨‍💻 Author
+## Author
 Oberd KOUASSI – Software Engineer (Internship Ready)
 
 ---
-## 📜 License
+## License
 This project is for  internship purposes.
 
 
