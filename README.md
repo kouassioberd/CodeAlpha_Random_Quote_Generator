@@ -110,14 +110,12 @@ com.example.codealpha_random_quote_generator
 1️⃣ Clone the repository:
 ```
 git clone https://github.com/kouassioberd/CodeAlpha_Random_Quote_Generator.git
-
 ```
 2️⃣ Open in Android Studio
-3️⃣ Sync Gradle
+3️⃣  Sync Gradle
 4️⃣ Run the app on:  ▶️
-  - Emulator
-  - Physical Android device
-  - 
+ - Emulator
+ - Physical Android device 
 ---
 
 ## Screenshots
