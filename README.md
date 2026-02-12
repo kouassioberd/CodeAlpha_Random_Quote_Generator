@@ -5,16 +5,16 @@ Random Quote Generator is a simple Android application built using **Kotlin** an
 ----
 
 ## Table of Contents
-1. [✨ Features](#✨-features)  
-2. [🛠 Tech Stack](#🛠-tech-stack)
-3. [🌐 API Used](#🌐-api-used)
-4. [🏗 Architecture](#🏗-architecture)
-5. [📂 Project Structure](#📂-project-structure)
-6. [🚀 Getting Started](#🚀-getting-started)
-7. [▶️ Run the App](#▶️-run-the-app)
-8. [📸 Screenshots](#📸-screenshots)
-9. [👨‍💻 Author](#👨‍💻-author)  
-10. [📜 License](#📜-license)
+1. [✨ Features](#features)  
+2. [🛠 Tech Stack](#tech-stack)
+3. [🌐 API Used](#api-used)
+4. [🏗 Architecture](#architecture)
+5. [📂 Project Structure](#project-structure)
+6. [🚀 Getting Started](#getting-started)
+7. [▶️ Run the App](#run-the-app)
+8. [📸 Screenshots](#screenshots)
+9. [👨‍💻 Author](#author)  
+10. [📜 License](#license)
 
 
 
